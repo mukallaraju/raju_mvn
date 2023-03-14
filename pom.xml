@@ -8,6 +8,9 @@
   <name>flipkart_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+<groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>6.0.6</version>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
